@@ -1,64 +1,73 @@
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# ツール・ライブラリの名前
 
-https://qiita.com/torano_tomo/items/c04c144dc909559f7d6e
+概要概要概要概要概要概要概要概要概要概要概要概要概要概要概要概要
 
-https://tailwindcss-ja.entap.app/
+## 簡単な説明
 
+簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明
+簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明
+簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明
+簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明簡単な説明
 
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
+***デモ***
 
-"hoge"が何かを簡潔に紹介する
+![デモ](https://image-url.gif)
 
-# DEMO
+## 機能
 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+- 機能1（UI/計算 etc ...）
+- 機能2
+- 機能3
+- ...
 
-# Features
+他の機能はこちらを参照して下さい。`awesome-tool --help`.
 
-"hoge"のセールスポイントや差別化などを説明する
+## 必要要件
 
-# Requirement
+- 要件
+- 要件
+- 要件
+- ...
 
-"hoge"を動かすのに必要なライブラリなどを列挙する
+## 使い方
 
-* huga 3.5.2
-* hogehuga 1.0.2
+1. 使い方
+2. 使い方
+3. 使い方
 
-# Installation
+## インストール
 
-Requirementで列挙したライブラリなどのインストール方法を説明する
-
-```bash
-pip install huga_package
+```
+$ git clone https://github.com/TomoakiTANAKA/awesome-tool
+$ cd awesome-tool
+$ sh setup.sh
+$ ~do anything~
 ```
 
-# Usage
+## テスト
 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+1. 使い方
+2. 使い方
+3. 使い方
 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+## デプロイ
 
-# Note
+1. デプロイ
+2. デプロイ
+3. デプロイ
 
-注意点などがあれば書く
+## その他
 
-# Author
+その他その他その他その他
+その他その他その他その他
+その他その他その他その他
+その他その他その他その他
 
-作成情報を列挙する
+## 作者
 
-* 作成者
-* 所属
-* E-mail
+[@TanakanoAnchan](https://twitter.com/TanakanoAnchan)
+mail to: xxxx@mail.com
 
-# License
-ライセンスを明示する
+## ライセンス
 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
-
-社内向けなら社外秘であることを明示してる
-
-"hoge" is Confidential.
+[MIT](http://TomoakiTANAKA.mit-license.org)</blockquote>
