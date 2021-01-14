@@ -57,7 +57,8 @@ $ ~do anything~
 3. デプロイ
 
 ## その他
-
+https://qiita.com/torano_tomo/items/c04c144dc909559f7d6e
+https://tailwindcss-ja.entap.app/
 その他その他その他その他
 その他その他その他その他
 その他その他その他その他
