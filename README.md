@@ -58,6 +58,9 @@ $ ~do anything~
 
 ## その他
 https://qiita.com/torano_tomo/items/c04c144dc909559f7d6e
+https://qiita.com/oedkty/items/68461080515ec1012980
+https://reffect.co.jp/html/tailwindcss-for-beginners
+https://segakuin.com/css/tailwind/
 https://tailwindcss-ja.entap.app/
 その他その他その他その他
 その他その他その他その他
